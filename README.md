@@ -203,7 +203,7 @@ npm run start
 ## Support
 
 Untuk pertanyaan atau bantuan:
-- Email: admin@pranaargentum.com
+- Email: kurniawanhay@gmail.com
 - Lokasi: Jl. Ikan Mungsing V No.75, Perak Barat, Kec. Krembangan, Surabaya
 - Telepon: (031) 99021411
 
